@@ -66,7 +66,7 @@
 
 AgentCDN provides a platform that makes video libraries usable by AI assistants. Their solution enables AI applications like ChatGPT or Claude to retrieve and play specific video segments in response to user queries, enhancing content accessibility and interaction. The service offers tools for video understanding, geo-targeting, SEO, and integration via APIs, targeting creators, brands, and developers looking to embed video intelligence into their products.
 
-**Areas:** Video · AI · Platform · Media · Integration · Company
+**Areas:** Video · Artificial Intelligence · Platform · Media · Integration · Company
 
 ## AgentCDN on APIs.io
 
@@ -90,15 +90,15 @@ Event-driven and webhook contracts.
 
 Authentication, trust centre, and vulnerability disclosure.
 
-- [Agentcdn Com Authentication](https://apis.io/security/agentcdn-com/agentcdn-com-authentication/)
-- [Agentcdn Com Domain Security](https://apis.io/security/agentcdn-com/agentcdn-com-domain-security/)
-- [Agentcdn Com Vulnerability Disclosure](https://apis.io/security/agentcdn-com/agentcdn-com-vulnerability-disclosure/)
+- [AgentCDN Authentication](https://apis.io/security/agentcdn-com/agentcdn-com-authentication/)
+- [AgentCDN Domain Security](https://apis.io/security/agentcdn-com/agentcdn-com-domain-security/)
+- [AgentCDN Vulnerability Disclosure](https://apis.io/security/agentcdn-com/agentcdn-com-vulnerability-disclosure/)
 
 #### Plans and pricing (1)
 
 Published plans, tiers and prices.
 
-- [Agentcdn Com Plans Pricing](https://apis.io/plans/agentcdn-com/agentcdn-com-plans-pricing/)
+- [AgentCDN Plans Pricing](https://apis.io/plans/agentcdn-com/agentcdn-com-plans-pricing/)
 
 ## Where to find this API
 
@@ -115,42 +115,46 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-**Kin Score 48.5** — developing · rubric 0.25.0 · scored 2026-11-01
+**Kin Score 47.2** — developing · rubric 0.28.1 · scored 2026-11-21
 
 | Facet | Score |
 |---|---|
-| Discoverability | 67.9 |
+| Discoverability | 85.7 |
 | Contract quality | 39.0 |
-| Contract governance | 16.4 |
-| Operational transparency | 18.4 |
+| Contract governance | 4.5 |
+| Operational transparency | 16.7 |
 | Developer ergonomics | 54.8 |
-| Access clarity | 73.2 |
+| Access clarity | 66.0 |
 
-**Agent readiness 47.3** — agent-ready (gated down from agent-native)
+**Agent readiness 28.9** — agent-ready
 
 | Agent-readiness dimension | Result |
 |---|---|
 | Spec Presence | yes |
 | Agentic Access | — |
 | Reversibility Documented | — |
-| MCP Server | documented (partial credit) |
-| Auth Clarity | served (partial credit) |
+| MCP Server | — |
+| Auth Clarity | bearer (partial credit) |
 | Idempotency | — |
 | Error Semantics | — |
 | OpenAPI Examples | — |
 | Rate Limit Signal | — |
-| Event Surface Described | unknown |
+| Event Surface Described | yes |
 | Agent Skills | — |
 | Well Known Catalog | yes |
-| Consent Identity | — |
+| Consent Identity | signal |
 | Agent Card | conformant |
 | Dry Run Mode | — |
-| Delegated Identity | served (partial credit) |
-| Protected Resource Metadata | verified |
-| Dynamic Client Registration | yes |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
 | Agentic Commerce | — |
 | Pagination Ratio | na |
 | Operation Distinctiveness | na |
+| MCP Tool Quality | na |
+| Onboarding Descriptor | — |
+| Dns Aid Index | na |
+| Markdown Negotiation | na |
 
 **Regulatory alignment 28.2** — Horizontal (data, software, accessibility, platform)
 
